@@ -1,3 +1,9 @@
+
+
+'''
+Esta es una seccion multilinea
+'''
+
 def imorimir(arreglo):
   for i in range(len(arreglo)-1):
     print(f'[{arreglo[i]}]',end="")
